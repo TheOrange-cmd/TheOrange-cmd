@@ -1,16 +1,18 @@
-## Hi there 👋
+MSc Robotics student at TU Delft, with a background in Electrical Engineering.
+I like building things that work on real hardware — robotic manipulators, drones,
+embedded systems. Moving beyond algorithm validation in Python and making 
+something actually run in real time is what I find most satisfying.
 
-<!--
-**TheOrange-cmd/TheOrange-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Some things I've worked on:**
+- 🦾 A ROS 2 perception pipeline for gaze-directed robotic grasping from a 
+  head-mounted camera — camera localization, object pose estimation, and 
+  workspace calibration
+- 📡 Unsupervised moving point detection in LiDAR, re-implementing and 
+  evaluating M-Detector on the nuScenes dataset
+- 🚁 On-board obstacle detection for a drone using a CNN compressed and 
+  deployed via ONNX onto embedded hardware
 
-Here are some ideas to get you started:
+**Currently looking for** a thesis project in perception, autonomous systems, 
+or human-robot interaction — academic or industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/daniel-rugge-882369239/)
